@@ -1,0 +1,8 @@
+Origin: iDevice Essentials Repo
+Label: iDevice Essentials Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Welcome to iDevice Essentials Repo! You can add iDeviceEssentials through Cydia or Sileo! ~©iDevice Essentials Team 2019.
