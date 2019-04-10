@@ -7,6 +7,6 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.iDeviceEssentials.newpackage_1.0.0_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Description: This is a TEST package. Do NOT Install! Supports firmware 11.0+
+Name: Test (DON'T INSTALL!)
 Author: iDevice Essentials Team
