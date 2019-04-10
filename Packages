@@ -1,12 +1,16 @@
-Package: com.iDeviceEssentials.newpackage
-Version: 1.0.0
-Section: Tweaks
-Maintainer: iDevice Essentials Team
-Depends: firmware (>11.0+), mobilesubstrate
+Package: com.sukarodo.notavoke
+Version: 0.3
 Architecture: iphoneos-arm
-Filename: ./debs/com.iDeviceEssentials.newpackage_1.0.0_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a TEST package. Do NOT Install! Supports firmware 11.0+
-Name: Test (DON'T INSTALL!)
-Author: iDevice Essentials Team
+Maintainer: Sukarodo <Sukarodo@protonmail.com>
+Depends: com.ps.letmeblock
+Conflicts: com.pwn20wnd.noplsocsp
+Filename: ./debs/com.sukarodo.notavoke_0.3_iphoneos-arm.deb
+Size: 1368
+MD5sum: 98427734271819375f3796268adeb2e1
+SHA1: e87c14dc5b9d1fdd6b487b647bd4c2a2a94f6d67
+SHA256: 96c6d7347b4262f8aa5d0dc1c8c0869963fca2d3b3439fb01b4b345e440e7f84
+Section: System
+Description: This uses the same concept as Diatrus to install. You must have LetMeBlock Installed. Run "removenotavoke" to remove. Note: Any modifications done to your current hosts file after installing will not show up after running "removenotavoke"
+Author: Sukarodo <Sukarodo@protonmail.com>
+Name: notavoke
+
